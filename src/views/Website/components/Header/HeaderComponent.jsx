@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react';
-import './HeaderStyles.scss';
+import './HeaderStyles.css';
 import Logo from '../../../../assets/img/brand/logo.svg';
 
 class HeaderComponent extends PureComponent {
