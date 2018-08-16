@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react';
-import './MainStyles.css';
+import './MainStyles.scss';
 
 class MainComponent extends PureComponent {
   render() {

@@ -6,7 +6,7 @@ import { Sidebar } from './components/Sidebar';
 import { Main } from './components/Main';
 import { Footer } from './components/Footer';
 
-class PanelComponent extends PureComponent {
+class Panel extends PureComponent {
   render() {
     return (
       <div>
@@ -22,4 +22,4 @@ class PanelComponent extends PureComponent {
   }
 }
 
-export default PanelComponent;
+export default Panel;

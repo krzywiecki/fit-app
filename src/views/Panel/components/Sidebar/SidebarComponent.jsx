@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react';
-import './SidebarStyles.css';
+import './SidebarStyles.scss';
 import { Link } from "react-router-dom";
 
 class SidebarComponent extends PureComponent {

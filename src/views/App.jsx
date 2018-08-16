@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { BrowserRouter, Switch, Redirect, Route } from 'react-router-dom';
 import { Website } from './Website';
 import { Panel } from './Panel';
-import './App.css';
+import './App.scss';
 
 class App extends Component {
   render() {
