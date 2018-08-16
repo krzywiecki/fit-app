@@ -8,7 +8,7 @@ import { Footer } from './components/Footer';
 class Website extends PureComponent {
   render() {
     return (
-        <div>
+        <div className="website">
           <Header />
           <Main>
             <Route path="/" exact component={Home} />

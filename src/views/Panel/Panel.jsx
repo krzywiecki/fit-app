@@ -9,7 +9,7 @@ import { Footer } from './components/Footer';
 class Panel extends PureComponent {
   render() {
     return (
-      <div>
+      <div className="panel">
         <Header />
         <Sidebar />
         <Main>
