@@ -1,5 +1,7 @@
 .panel {
     .main {
-        background: #a0a0a0;
+        width: 100%;
+        height: calc(100vh - 55px - 18px);
+        margin: 55px 0 0;
     }
 }

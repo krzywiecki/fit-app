@@ -6,8 +6,6 @@ class SidebarComponent extends PureComponent {
   render() {
     return (
       <aside className="sidebar">
-        I'm sidebar
-
         <ul>
           <li key="1">
             <Link to="/panel/dashboard">Dashboard</Link>
